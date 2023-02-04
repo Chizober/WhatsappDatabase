@@ -13,4 +13,8 @@ The tables are
 
 This  contains the Entity Relationship Diagram of all the tables,which shows the attributes of each table and the relationships existing among these tables.
 
-It also contains a view of messsages exchange between receivers and senders and their timestamps
+It  contains queries of messsages exchange between receivers and senders, and the tables showing the outputs.
+
+It contains view for messgaes received, and the timestamp.
+
+It also contains view for messgaes sent, and the timestamp.
